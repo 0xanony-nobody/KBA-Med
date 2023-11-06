@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-    "./contracts/pharma_chaincode.go"
+        "github.com/0xanony-nobody/KBA-Med/contracts/"
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
 )
 
